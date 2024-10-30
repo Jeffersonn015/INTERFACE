@@ -37,5 +37,9 @@ Desenvolvimento de um sistema de gestão que calcula o bônus anual de funcioná
 # ✒ Autor
 
 - Jefferson Oliveira
+  
+# Diagrama de Classe
+
+![Sistema de Gestao de Funcionario drawio](https://github.com/user-attachments/assets/7a733683-f044-4b09-a6d8-bd993d2c54e1)
 
 
